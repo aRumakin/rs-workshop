@@ -1,2 +1,6 @@
 Some text for header
 Changes from <master> new changes
+=======
+
+Changes from <first>
+>>>>>>> 7899768 (Add footer, fix header)
