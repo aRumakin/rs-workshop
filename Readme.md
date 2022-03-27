@@ -21,3 +21,6 @@ That text is not a quoite
 2. Second list item
    - First nested list item
      - Second nested list item
+
+Let's rename \**our-new-project\** to \*our-old-project\*
+
